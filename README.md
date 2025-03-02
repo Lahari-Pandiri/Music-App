@@ -1,4 +1,7 @@
 # 🎵 Music App 🎶
+
+A simple and interactive music player web app.
+
 ✅ Play/Pause Songs 🎧
 
 ✅ Skip Forward & Backward ⏩⏪
