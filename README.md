@@ -13,4 +13,5 @@ A simple and interactive music player web app.
 ### 🎼 Home Page  
 ![Home Page](Images/Home Page.png)
 
+
 🚀 Future Updates: Liked Songs | Playlist Support | Shuffle & Repeat | Dark Mode
