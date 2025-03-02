@@ -14,4 +14,7 @@ A simple and interactive music player web app.
 ![Music App Screenshot](https://github.com/Lahari-Pandiri/Music-App/blob/main/Images/Home%20Page.png)
 
 
+## 🚀 Live Demo  
+🔗 [View Live](https://github.com/Lahari-Pandiri/Music-App/blob/main/Output.mp4)
+
 🚀 Future Updates: Liked Songs | Playlist Support | Shuffle & Repeat | Dark Mode
